@@ -1,0 +1,4 @@
+applications:
+- name: Weather-WebApp
+  random-route: true
+  memory: 256M
